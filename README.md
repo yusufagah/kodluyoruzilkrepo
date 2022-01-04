@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hakkimizda Sayfasi</title>
+    <title>Sosyal Mario</title>
    </head>
    <body bgcolor="#fc1b07">
 
